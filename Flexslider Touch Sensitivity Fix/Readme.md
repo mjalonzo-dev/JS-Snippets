@@ -1,7 +1,6 @@
 # Fix for Flexslider 2's Touch Sensitivity
 
- This fix will reduce Flexslider's swipe/touch sensitivity. Avoiding unwanted slide changes when swiping up/down to scroll.
- Borrowed from [here](https://github.com/woothemes/FlexSlider/issues/530)
+ This fix will reduce Flexslider's swipe/touch sensitivity. Avoiding unwanted slide changes when swiping up/down to scroll. Thanks to [Yuri Vvedensky](https://github.com/vv3d0x) for the fix. Borrowed from [here](https://github.com/woothemes/FlexSlider/issues/530)
 
  Fix for [Flexslider v2.1](https://github.com/woothemes/FlexSlider)
 
